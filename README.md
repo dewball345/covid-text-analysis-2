@@ -1,5 +1,4 @@
-
-# covid_text_sentiment_analysis
+# covid-text-analysis-2
 Model files for covid tweet sentiment analysis
 
 
